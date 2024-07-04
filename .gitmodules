@@ -1,0 +1,12 @@
+[submodule "02-Build-ML-Pipeline-for-short-term-rental-prices"]
+	path = 02-Build-ML-Pipeline-for-short-term-rental-prices
+	url = https://github.com/PraveenKumar-Rajendran/build-ml-pipeline-for-short-term-rental-prices.git
+[submodule "03-Deploying-a-Scalable-ML-Pipeline-in-Production"]
+	path = 03-Deploying-a-Scalable-ML-Pipeline-in-Production
+	url = https://github.com/PraveenKumar-Rajendran/Deploying-a-Scalable-ML-Pipeline-in-Production.git
+[submodule "04-ML-Model-Scoring-and-Monitoring"]
+	path = 04-ML-Model-Scoring-and-Monitoring
+	url = https://github.com/PraveenKumar-Rajendran/ML-Model-Scoring-and-Monitoring.git
+[submodule "01-Predict-Customer-Churn-with-Clean-Code"]
+	path = 01-Predict-Customer-Churn-with-Clean-Code
+	url = https://github.com/PraveenKumar-Rajendran/Predict-Customer-Churn-with-Clean-Code.git
